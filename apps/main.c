@@ -6,5 +6,6 @@ int main()
 {
 	func1();
 	func2();
+	printf("git");
 	return 0;
 }
