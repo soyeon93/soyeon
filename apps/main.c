@@ -5,7 +5,6 @@
 int main()
 {
 	func1();
-	func2();
-	printf("git");
+	printf("edit");
 	return 0;
 }
