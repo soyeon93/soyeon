@@ -7,5 +7,6 @@ int main()
 	
 	func2();
 	printf("edit");
+	pirntf("hello bug456");
 	return 0;
 }
