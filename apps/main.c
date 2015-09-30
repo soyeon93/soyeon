@@ -4,7 +4,8 @@
 
 int main()
 {
-	func1();
+	
+	func2();
 	printf("edit");
 	return 0;
 }
